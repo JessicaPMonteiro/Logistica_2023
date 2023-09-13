@@ -1,10 +1,9 @@
 # Logistica_2023
 
-# Aprendizado por Projeto Integrado (API) - Template
+# Trabalho de Graduação em Logística
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Trabalho de Graduação em Logística com o tema Estudo de Viailidade do Transporte Marítimo por Cabotagem no Brasil. 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
