@@ -26,8 +26,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Sprint 01 | 29/08/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 02 | 05/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 03 | 19/09/2023 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 04 | 03/10/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 03 | 26/09/2023 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 04 | 10/10/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 05 | 24/10/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Sprint 06 | 07/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
 |Feira de Soluções|dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -37,12 +37,12 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem por objetivo geral apresentar o panorama atual do transporte marítimo por Cabotagem no Brasil e suas perspectivas de crescimento.
+Os objetivos específicos estabelecidos para esse projeto consistem em:
+* Desenvolver uma análise das condições para a viabilidade da cabotagem e apontar os principais entraves nesse setor portuário;
+* Identificar os importantes aspectos que influenciam na expansão do transporte costeiro de carga;
+* Apontar os principais fluxos comerciais e produtos que podem migrar do modal rodoviário para o transporte por Cabotagem;
+* Desenvolver uma análise quantitativa com estudo de tendência indicando as perspectivas do transporte por Cabotagem para os próximos anos.
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
