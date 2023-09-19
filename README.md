@@ -54,8 +54,18 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
+*Tecnologias de Logística ou de Análise gerencial
+Análise de tendência;
+Análise de rota;
+Dimensionamento de frota;
+Custos de transporte;
+Análise de Cenário.
 
-![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
+*Tecnologias da Informação
+Microsoft Excel;
+Power BI;
+Github;
+Jira.
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
