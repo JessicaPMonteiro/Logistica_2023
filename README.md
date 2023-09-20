@@ -122,7 +122,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Elaborar a prévia da apresentação;
 - [ ] Finalize e aprovação.
 
-<div align="center">
 
 
 # Competências desenvolvidas
