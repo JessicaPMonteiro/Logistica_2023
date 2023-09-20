@@ -78,47 +78,59 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+## Sprint 1. Definição do Tema e Orientador
+- [x] Definição do tema do projeto;
+- [x] Definição da área de estudo;
+- [x] Escolha do professor orientador;
+- [x] Escolha do professor co-orientador;
+- [x] Preenchimento da formalização da orientação;
+- [x] Entrega das definições.
+
+## Sprint 2. Contextualização e Objetivos do Projeto
+- [x] Definição dos temas a serem abordados na contextualização;
+- [x] Pesquisar e dissertar sobre a história da cabotagem;
+- [x] Pesquisar e dissertar sobre contexto atual da cabotagem no Brasil;
+- [x] Pesquisar os principais entraves do setor;
+- [x] Pesquisar as principais regulamentações do setor de cabotagem;
+- [x] Dissetar sobre a integração regional no Mercosul;
+- [x] Definir junto ao orientador os objetivos do projeto;
+- [x] Finalizar e aprovação
+      
+## Sprint 3. Tecnologias Utilizadas
+- [x] Defina as tecnologias logísticas ou de análise gerencial a serem utilizadas;
+- [x] Dissertar sobre a importância de cada tecnologia logística em relação a este projeto;
+- [ ] Definir as ferramentas analiticas que serão utilizadas;
+- [x] Definir as tecnologias da informação que serão utilizadas;
+- [x] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
+- [ ] Finalizar e aprovação;
+      
+## Sprint 4. Coleta e Descrição dos Dados Utilizados
+- [x] Realizar a coleta de dados no site da Antaq;
+- [x] Enviar os dados para análise e auxilio da co-orientadora;
+- [ ] Estudo dos dados constantes na PLN 2035;
+- [ ] Definição das ferramentas analiticas a serem utilizadas no estudo dos dados;
+- [ ] Elaboração do estudo de tendência;
+- [ ] Elaboração e interpretação dos estudos de cenário;
+- [ ] Estudo da análise de rotas;
+- [ ] Estudo do dimensionamento de frotas;
+- [ ] Estudo do custo de transporte;
+- [ ] Desenvolvimento do Github;
+- [ ] Desenvolvimento do Jira;
+- [ ] Desenvolvimento do Power BI;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+## Sprint 5. Resultados Esperados e Referências Bibliográficas 
+- [ ] Reportar os resultados esperados;
+- [ ] Apontar as contribuições técnicas e acadêmicas para a área logística;
+- [ ] Elaborar as referências bibliográficas conforme a norma ABNT;
 - [ ] Finalize e aprovação.
 
-  
+
+ ## Sprint 6. Versão Final do Documento
+- [ ] Finalizar e revisar a versão final do proejto;
+- [ ] Elaborar a prévia da apresentação;
+- [ ] Finalize e aprovação.
+
 <div align="center">
     
 ![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
