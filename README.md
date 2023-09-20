@@ -54,14 +54,14 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-# Tecnologias de Logística ou de Análise gerencial
+### Tecnologias de Logística ou de Análise gerencial
 * Análise de tendência;
 * Análise de rota;
 * Dimensionamento de frota;
 * Custos de transporte;
 * Análise de Cenário.
 
-# Tecnologias da Informação
+### Tecnologias da Informação
 * Microsoft Excel;
 * Power BI;
 * Github;
