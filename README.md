@@ -93,6 +93,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Definir as ferramentas analiticas que serão utilizadas;
 - [x] Definir as tecnologias da informação que serão utilizadas;
 - [x] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
+- [ ] Desenvolvimento do Github;
+- [ ] Desenvolvimento do Jira;
 - [ ] Finalizar e aprovação;
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
@@ -105,8 +107,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Estudo da análise de rotas;
 - [ ] Estudo do dimensionamento de frotas;
 - [ ] Estudo do custo de transporte;
-- [ ] Desenvolvimento do Github;
-- [ ] Desenvolvimento do Jira;
 - [ ] Desenvolvimento do Power BI;
 - [ ] Finalize e aprovação.
 
