@@ -44,14 +44,6 @@ Os objetivos específicos estabelecidos para esse projeto consistem em:
 * Apontar os principais fluxos comerciais e produtos que podem migrar do modal rodoviário para o transporte por Cabotagem;
 * Desenvolver uma análise quantitativa com estudo de tendência indicando as perspectivas do transporte por Cabotagem para os próximos anos.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
 ### Tecnologias de Logística ou de Análise gerencial
@@ -67,7 +59,7 @@ Adicionar video e documentos nessa seção
 * Github;
 * Jira.
 
-  ### Produto 
+### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
 
 # Cronograma das Sprints
