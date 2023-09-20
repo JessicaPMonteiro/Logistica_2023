@@ -83,9 +83,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Pesquisar e dissertar sobre contexto atual da cabotagem no Brasil;
 - [x] Pesquisar os principais entraves do setor;
 - [x] Pesquisar as principais regulamentações do setor de cabotagem;
-- [x] Dissetar sobre a integração regional no Mercosul;
+- [x] Dissertar sobre a integração regional no Mercosul;
 - [x] Definir junto ao orientador os objetivos do projeto;
-- [x] Finalizar e aprovação
+- [x] Finalizar e aprovação.
       
 ## Sprint 3. Tecnologias Utilizadas
 - [x] Defina as tecnologias logísticas ou de análise gerencial a serem utilizadas;
@@ -95,7 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
 - [ ] Desenvolvimento do Github;
 - [ ] Desenvolvimento do Jira;
-- [ ] Finalizar e aprovação;
+- [ ] Finalizar e aprovação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
 - [x] Realizar a coleta de dados no site da Antaq;
