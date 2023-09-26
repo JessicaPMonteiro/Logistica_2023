@@ -117,7 +117,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
  ## Sprint 6. Versão Final do Documento
-- [ ] Finalizar e revisar a versão final do proejto;
+- [ ] Finalizar e revisar a versão final do projeto;
 - [ ] Elaborar a prévia da apresentação;
 - [ ] Finalize e aprovação.
 
