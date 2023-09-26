@@ -62,7 +62,7 @@ Os objetivos específicos estabelecidos para esse projeto consistem em:
 
 # Cronograma das Sprints
 
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto na plataforma Jira Software, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://jessica-monteiro.atlassian.net/jira/software/projects/TDGEL/boards/2/timeline?shared=&atlOrigin=eyJpIjoiNWUxZmFlODUyZWE3NGRjZDk2YTg1ZDVjYmY1NGQ3NmEiLCJwIjoiaiJ9)
 
