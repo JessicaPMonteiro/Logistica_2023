@@ -9,7 +9,6 @@ Trabalho de Graduação em Logística com o tema Estudo de Viailidade do Transpo
 
 * [Projetos](#projetos)
 * [Tecnologias](#tecnologias)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
