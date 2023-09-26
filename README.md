@@ -93,9 +93,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto na pla
 - [ ] Definir as ferramentas analiticas que serão utilizadas;
 - [x] Definir as tecnologias da informação que serão utilizadas;
 - [x] Dissertar sobre a importância de cada tecnologia da informação para o projeto;
-- [ ] Desenvolvimento do Github;
-- [ ] Desenvolvimento do Jira;
-- [ ] Finalizar e aprovação.
+- [x] Desenvolvimento do Github;
+- [x] Desenvolvimento do Jira;
+- [x] Finalizar e aprovação.
       
 ## Sprint 4. Coleta e Descrição dos Dados Utilizados
 - [x] Realizar a coleta de dados no site da Antaq;
