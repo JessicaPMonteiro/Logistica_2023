@@ -24,7 +24,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Sprint 01 | 29/08/2023 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730723/Formalizacao_orientacao_tg.-.Jessica.Monteiro.pdf) | 
 |Sprint 02 | 05/09/2023 | concluido| [Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730794/Sprint.2.docx) | 
-|Sprint 03 | 26/09/2023 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 03 | 26/09/2023 | concluido |[Ver Relatório](https://github.com/JessicaPMonteiro/Logistica_2023/files/12730811/Sprint.3.docx) | 
 |Sprint 04 | 10/10/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 05 | 24/10/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Sprint 06 | 07/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  |
