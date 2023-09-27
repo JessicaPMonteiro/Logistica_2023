@@ -15,10 +15,10 @@ Trabalho de Graduação em Logística com o tema Estudo de Viailidade do Transpo
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+# Trabalho de Graduação
+Trabalho de Graduação (TG) é um projeto acadêmico realizado no final de sua graduação. Ele representa uma etapa fundamental na conclusão do curso e é uma oportunidade para aplicação do conhecimento adquirido ao longo dos anos de estudo. O TG geralmente envolve pesquisa, análise, síntese e apresentação de informações sobre um tema específico relacionado à área de estudo.
+
+Os resultados dos projetos devem obedecer as definição de datas das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
